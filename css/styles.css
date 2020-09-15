@@ -6095,13 +6095,15 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background: rgb(34,193,195);
+background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(252,252,252,1) 100%);
+  
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #148f77 !important;radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(252,252,252,1) 100%);
 }
 
 .bg-secondary {
