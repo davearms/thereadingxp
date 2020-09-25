@@ -1,1 +1,1 @@
-{"short_name":"ReadingXP","name":"TheReadingXP","icons":[{"src":"/assets/img/screenshot.jpg?h=0493e545d7be3a7f5f14d16fb84c3891","type":"image/jpeg","sizes":"undefinedxundefined"}],"start_url":"/index.html","display":"fullscreen"}
+{"short_name":"ReadingXP","name":"TheReadingXP","icons":[{"src":"/assets/img/bg.jpg?h=0c557fd35b64f8aea0f85641deb898e1","type":"image/jpeg","sizes":"3598x2408"},{"src":"/assets/img/bg.jpg?h=0c557fd35b64f8aea0f85641deb898e1","type":"image/jpeg","sizes":"3598x2408"}],"start_url":"/index.html","display":"minimal-ui","orientation":"portrait"}
